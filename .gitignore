@@ -1,2 +1,5 @@
 /.markdownlint.json
 /TheGallows.md
+.aider*
+.injkt*
+.alpha-archive*
