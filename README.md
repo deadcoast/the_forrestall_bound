@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🧮 The Computational Scaling Problem
-### Mathematical Analysis of AI Development Toward AGI
+# 🧮 The Forrestall Bound - A Computational Scaling Problem
+### Mathematical Analysis of Future AI Development
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Mathematical Analysis](https://img.shields.io/badge/Type-Mathematical%20Analysis-blue.svg)](https://github.com)
