@@ -109,10 +109,10 @@ P_G = R^{G-4} \times 10^{12}
 
 | Generation | Parameters | Estimated Cost | Feasibility |
 |------------|-----------|----------------|-------------|
-| GPT-4 | $10^{12}$ (1T) | $100M | ✅ Achieved |
-| GPT-5 | $10^{14}$ (100T) | $10B | 🟡 Challenging |
-| GPT-6 | $10^{16}$ (10,000T) | $1T | 🔴 Uncertain |
-| GPT-7 | $10^{18}$ (1M T) | $100T | ❌ Infeasible |
+| GPT-4 | $10^{12}$ (1T) | $100M | Achieved |
+| GPT-5 | $10^{14}$ (100T) | $10B | Challenging |
+| GPT-6 | $10^{16}$ (10,000T) | $1T | Uncertain |
+| GPT-7 | $10^{18}$ (1M T) | $100T | Infeasible |
 
 > **Note**: Human brain complexity falls in the GPT-5 to GPT-6 range ($3 \times 10^{13}$ to $3 \times 10^{14}$ synapses)
 
